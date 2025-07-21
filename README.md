@@ -1,29 +1,23 @@
-## Hello, I'm Yoonsang Lee from South Korea and I do programming.
+## Hello, I'm Yoonsang Lee from South Korea and I do programming and I also love learning languages.
 
 I mainly focus on solving problems not to any boundary.
 - I'm making game because it is fun to make.
-- for web, it's for learning the major industry.
-- Sometime I also want to broad something about LLM and AI, not to be replaced by them in the near future.
-
-Je concentre de resoudre les problemes pas de limite
-- Je creer les jeux videos parce que ca m'amuse bien de le faire.
-- J'apprend un petit peu de web developpement pour savoir l'industrie principale.
-- Quelquefois Je souhaite d'elargir mes expertise au LLM et a l'IA, docs je serai pas remplace par eux dans le futur proche.
+- for web development, it's for learning the major industry.
 
 ## Programming languages
 
 ### What I can professionally use:
 
-- C++ (>14)
-- C# (>13)
+- C# (>10)
 - Javascript (>2018)
 - Typescript
 - Go
+- C++ (>14)
 
 ### What I'm interested in / consider nice to have
 
 - Java
-- Kotlin
+- Python
 
 ## Frameworks / Libraries
 
@@ -38,10 +32,6 @@ Je concentre de resoudre les problemes pas de limite
 
 - React.js
 - React Native
-- Next.js
-- CSS, SCSS
 - Express.js
-- chi
-- std net/http
 
 
