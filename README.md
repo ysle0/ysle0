@@ -14,24 +14,8 @@ I mainly focus on solving problems not to any boundary.
 - Go
 - C++ (>14)
 
-### What I'm interested in / consider nice to have
+###
 
-- Java
-- Python
+I'm especially working on game servers and game client.
 
-## Frameworks / Libraries
-
-### Game
-
-- DirectX 11
-- OpenGL 4.3
-- Unity3D
-- C++ ASIO
-
-### Web
-
-- React.js
-- React Native
-- Express.js
-
-
+RTS games, puzzle games.
