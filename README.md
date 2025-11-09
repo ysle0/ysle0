@@ -19,3 +19,8 @@ I mainly focus on solving problems not to any boundary.
 I'm especially working on game servers and game client.
 
 RTS games, puzzle games.
+
+## Contributions
+
+fix: iOS native bridge creation with parameters
+https://github.com/getsentry/sentry-unity/pull/1964
